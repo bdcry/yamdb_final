@@ -2,6 +2,7 @@
 
 ![yamdb_final workflow](https://github.com/bdcry/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+<<<<<<< HEAD
 Это API проекта api_yamdb, который собирает отзывы (Review) пользователей на произведения (Title). Произведения делятся на категории (Category). В каждой категории есть произведения: книги, фильмы или музыка. Произведению может быть присвоен жанр (Genres) из списка предустановленных. Новые жанры может создавать только администратор.
 
 ---
@@ -26,3 +27,6 @@
 Собрать статику
     
     $ docker-compose exec web python manage.py collectstatic --noinput
+=======
+![yamdb_final workflow](https://github.com/bdcry/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+>>>>>>> da5c31281f3082193127386fdc478f246ec9c1fa
