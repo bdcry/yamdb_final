@@ -19,8 +19,6 @@ services:
     volumes:
       - static_data:/var/html/static/
       - media_data:/var/html/media/
-    env_file:
-      - ./.env
 
   nginx:
     image: nginx:1.19.0
