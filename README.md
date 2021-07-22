@@ -26,3 +26,7 @@
     $ docker-compose exec web python manage.py collectstatic --noinput
 
 https://hub.docker.com/repository/docker/bdcry/yamdb_final
+я просто не понимаю, в каком смысле "развернутый проект"?
+на яндекс облаке, докерхабе или где?
+
+http://84.252.137.219/admin/login/?next=/admin/
