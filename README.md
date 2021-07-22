@@ -26,7 +26,7 @@
     $ docker-compose exec web python manage.py collectstatic --noinput
 
 https://hub.docker.com/repository/docker/bdcry/yamdb_final - dockerhub
-я просто не понимаю, в каком смысле "развернутый проект"?
+я просто не понимаю, в каком смысле "развернутый проект"? проект должен полностью работать? или должна работает только админка, так как нет templates(как я понимаю)?
 на яндекс облаке, докерхабе или где?
 
 http://84.252.137.219/admin/login/?next=/admin/ - облако
