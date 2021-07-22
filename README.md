@@ -25,4 +25,4 @@
     
     $ docker-compose exec web python manage.py collectstatic --noinput
 
-Сервер: 84.252.137.219
+https://hub.docker.com/repository/docker/bdcry/yamdb_final

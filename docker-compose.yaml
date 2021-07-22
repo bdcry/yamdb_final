@@ -12,7 +12,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
 
   web:
-    image: wadimegoroff/foodgram-project:latest
+    image: bdcry/yamdb_final:latest
     restart: always
     depends_on:
       - db
