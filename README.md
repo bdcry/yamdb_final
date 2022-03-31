@@ -26,6 +26,3 @@
     $ docker-compose exec web python manage.py collectstatic --noinput
 
 https://hub.docker.com/repository/docker/bdcry/yamdb_final - dockerhub
-
-http://130.193.34.147/admin/login/?next=/admin/ - облако
-или http://130.193.34.147/api/v1/
