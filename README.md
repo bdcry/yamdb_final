@@ -24,5 +24,3 @@
 Собрать статику
     
     $ docker-compose exec web python manage.py collectstatic --noinput
-
-https://hub.docker.com/repository/docker/bdcry/yamdb_final - dockerhub
